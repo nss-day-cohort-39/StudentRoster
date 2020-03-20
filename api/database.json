@@ -1,3 +1,8 @@
 {
-    "cohorts": []
+    "cohorts": [
+        {
+            "id": 1,
+            "name": "Cohort 39"
+        }
+    ]
 }
