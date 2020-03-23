@@ -1,0 +1,23 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border: 10px dotted firebrick;
+}
+.form button {
+    width: 30%;
+    align-self: center;
+    margin: .5em;
+}
+.cohort_list{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+.cohort {
+    border: 5px dotted goldenrod;
+    background-color: greenyellow;
+    margin: 1rem;
+    padding: .5em;
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+.student_list{
+    display: flex;
+    flex-direction: column;
+    width: 75%
+}
+
+.student {
+    border: 2px dashed palevioletred;
+    background-color: powderblue;
+    margin: 1em;
+    padding: .5em;
+    text-align: center;
+}
