@@ -1,20 +1,60 @@
 {
-  "cohorts": [
-    {
-      "id": 1,
-      "name": "Cohort 39"
-    },
-    {
-      "name": "Cohort 38",
-      "id": 2
-    },
-    {
-      "name": "Cohort 37",
-      "id": 3
-    },
-    {
-      "name": "Cohort 36",
-      "id": 4
-    }
-  ]
+    "cohorts": [
+        {
+            "id": 1,
+            "name": "Cohort 39"
+        },
+        {
+            "name": "Cohort 38",
+            "id": 2
+        },
+        {
+            "name": "Cohort 37",
+            "id": 3
+        },
+        {
+            "name": "Cohort 36",
+            "id": 4
+        },
+        {
+            "name": "Cohort 35",
+            "id": 5
+        },
+        {
+            "name": "Cohort 34",
+            "id": 6
+        },
+        {
+            "name": "Cohort 33",
+            "id": 7
+        },
+        {
+            "name": "Cohort 31",
+            "id": 8
+        },
+        {
+            "name": "Cohort 30",
+            "id": 9
+        }
+    ],
+    "students": [
+        {
+            "id": 1,
+            "firstName": "Daniel",
+            "lastName": "Hero",
+            "cohortId": 1
+        },
+        {
+            "id": 2,
+            "firstName": "Mo",
+            "lastName": "Silvera",
+            "cohortId": 9
+        },
+        {
+            "id": 3,
+            "firstName": "Sage",
+            "lastName": "Klein",
+            "cohortId": 5
+        }
+    ]
 }
